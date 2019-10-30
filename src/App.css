@@ -1,0 +1,29 @@
+body {
+	background-image: url('https://cdn.pixabay.com/photo/2012/10/21/07/46/blog-62279_960_720.jpg');
+	background-size: cover
+}
+
+.comicInfo {
+    background-color: lightcyan;
+    max-inline-size: max-content;
+    font-size: 2em;
+}
+
+h1 {
+	background-color: lightcyan;
+    max-inline-size: max-content;
+    font-size: 4em;
+}
+
+button {
+	width: 110px;
+	height: 35px;
+	font-size: 25px;
+	background-color: lightskyblue
+}
+
+.searchInput {
+	height: 35px;
+	font-size: 25px;
+	margin-top: 1em
+}
